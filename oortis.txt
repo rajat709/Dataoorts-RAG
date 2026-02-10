@@ -1,0 +1,13 @@
+Dataoorts AI Cloud is GPU cloud, Dataoorts Provide Different Series for GPU instances currently four
+series X-Series, Nova, Orion and Atlas Series there are are the four series that currently offered by
+Dataoorts more to come also we also have our marketplace where we post best GPU long term rental
+offers we also have our API name Unify API to manage all series Instances via program.
+
+Important Links:
+Website: https://dataoorts.com, Pricing: https://dataoorts.com/pricing, Console:
+https://cloud.dataoorts.com, Marketplace: https://offers.dataoorts.com, Help and Support Email:
+help@dataoorts.com, Sales Email: sales@dataoorts.com, Founder of Dataoorts: Rajat Kumar
+Vishwakarma, Founder Contact Email: rajat@dataoorts.com, Dataoorts API Access:
+https://dataoorts.com/api, X-Series Instances: https://cloud.dataoorts.com/xseries, Nova Series
+Instances: https://cloud.dataoorts.com/nova, Orion Series Instances:
+https://cloud.dataoorts.com/orion, Atlas Series Instances: https://cloud.dataoorts.com/atlas
