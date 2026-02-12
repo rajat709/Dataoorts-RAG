@@ -1,3 +1,3 @@
 # Dataoorts-RAG
 
-## Oortis
+## Oortis -- ChatBot
