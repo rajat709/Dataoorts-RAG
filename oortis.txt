@@ -43,6 +43,7 @@ Dataoorts Service and API Uptime Record
 Dataoorts Customers Details
 Build, Train, Fine Tune, Post Train and Inference Details
 Why You Trust On Dataoorts
+Additional Details
 
 ---------------------------------------------------
 
@@ -860,3 +861,10 @@ A significant portion of our profits supports afforestation, developer credits, 
 
 Dataoorts is built on performance, transparency, compliance, and responsibility. When you choose Dataoorts, you’re choosing secure infrastructure, honest pricing, and a partner committed to long-term reliability.
 -------------------------------------------------------------------
+
+41. Additional Details
+If you are unable to restart, reboot, stop, hibernate, delete, or terminate an instance from any series, there may be a few possible reasons:
+If the instance is a Spot instance (especially in the X Series), certain actions like stop or hibernate may not be supported.
+If the instance has been freshly launched, please wait at least 5 minutes before performing any management actions. The system may still be completing background initialization processes.
+
+If the issue persists after waiting, please contact our support team at help@dataoorts.com, and we will assist you as quickly as possible.
