@@ -864,7 +864,7 @@ Dataoorts is built on performance, transparency, compliance, and responsibility.
 
 41. Additional Details
 If you are unable to restart, reboot, stop, hibernate, delete, or terminate an instance from any series, there may be a few possible reasons:
-If the instance is a Spot instance (especially in the X Series), certain actions like stop or hibernate may not be supported.
+If the instance is a Spot or Bigroot instance (especially in the X Series), certain actions like stop or hibernate may not be supported.
 If the instance has been freshly launched, please wait at least 5 minutes before performing any management actions. The system may still be completing background initialization processes.
-
 If the issue persists after waiting, please contact our support team at help@dataoorts.com, and we will assist you as quickly as possible.
+If you don’t see your preferred payment method listed, please contact us at help@dataoorts.com. We also support direct bank/wire transfers for transactions of at least USD 500 per transfer.
