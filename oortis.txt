@@ -3,47 +3,47 @@ Dataoorts GPU Cloud
 -----------------------------------------------------------
 
 Table of Content:
-Small Overview of Dataoorts
-Important Links
-Complete Intro About Dataoorts
-Dataoorts Company Legal Details
-Countries Dataoorts Serve
-Things That You Never Do
-Things That We Never Do
-Complete All Service and GPU Series Details
-Complete All Series Pricing Details
-Stop or Hibernate GPU Instances
-Public IP of GPU Instances
-Windows GPU Server
-Complete FAQs
-Dataoorts Meaning and Theme
-GPU Reservations and GPU Marketplace
-Machine Images - DMI, Dataoorts Machine Image
-About Cloud API Access
-Why Deep and Machine Learning Engineers Love Dataoorts
-Frontend Documentation
-Crypto Payments Details
-Razorpay Payment Details
-News and Press Inquiries
-Dataoorts Competitors and Why Dataoorts Stands Best
-Easy and Beginner Friendly Console
-GPUs Instances Availability
-Dataoorts SLA
-Dataoorts Billing Details
-About Dataoorts Ambitions
-Sustainability Program
-Career in Dataoorts
-Dataoorts Partners
-Data Center Compliances Details
-Privacy Policy and Terms of Service Details
-Become Provider of Dataoorts
-Dataoorts Community
-About Dataoorts DDRA
-Dataoorts Service and API Uptime Record
-Dataoorts Customers Details
-Build, Train, Fine Tune, Post Train and Inference Details
-Why You Trust On Dataoorts
-Additional Details
+1. Small Overview of Dataoorts
+2. Important Links
+3. Complete Intro About Dataoorts
+4. Dataoorts Company Legal Details
+5. Countries Dataoorts Serve
+6. Things That You Never Do
+7. Things That We Never Do
+8. Complete All Service and GPU Series Details
+9. Complete All Series Pricing Details
+10. Stop or Hibernate GPU Instances
+11. Public IP of GPU Instances
+12. Windows GPU Server
+13. Complete FAQs of Dataoorts
+14. Dataoorts Meaning and Theme
+15. GPU Reservations and GPU Marketplace
+16. Machine Images - DMI, Dataoorts Machine Image
+17. About Cloud API Access
+18. Why Deep and Machine Learning Engineers Love Dataoorts
+19. Frontend Documentation
+20. Crypto Payments Details
+21. Razorpay Payment Details
+22. News and Press Inquiries
+23. Dataoorts Competitors and Why Dataoorts Stands Best
+24. Easy and Beginner Friendly Console
+25. GPUs Instances Availability
+26. Dataoorts SLA
+27. Dataoorts Billing Details
+28. About Dataoorts Ambitions
+29. Sustainability Program
+30. Career in Dataoorts
+31. Dataoorts Partners
+32. Data Center Compliances Details
+33. Privacy Policy and Terms of Service Details
+34. Become Provider of Dataoorts
+35. Dataoorts Community
+36. About Dataoorts DDRA
+37. Dataoorts Service and API Uptime Record
+38. Dataoorts Customers Details
+39. Build, Train, Fine Tune, Post Train and Inference Details
+40. Why You Trust On Dataoorts
+41. Additional Details of Dataoorts
 
 ---------------------------------------------------
 
@@ -242,7 +242,7 @@ Windows-based GPU instances may be introduced in the future as support and compa
 
 ------------------------------------------------------------------------
 
-13. Complete FAQs
+13. Complete FAQs of Dataoorts
 
 Is there an option for Persistent Volume ?
 Yes, you can create a persistent volume in a specific region and mount it to your GPU VM for continuous storage. This way, you won’t need to re-download your data each time.
@@ -431,7 +431,7 @@ Our team will be happy to assist you.
 -------------------------------------------------------------------
 
 23. Dataoorts Competitors and Why Dataoorts Stands Best
-There are several major competitors in the GPU cloud space, including Lambda, Vast.ai, RunPod, and others.
+There are several major competitors in the GPU cloud space, including Lambda (Lambda AI or Lambda Labs), Vast.ai (Vast AI), RunPod, Tensordock, Hyperstack, Sesterce, Verda (DataCrunch), CoreWeave, Hyperbolic (HyperBolic AI) and others.
 What sets Dataoorts apart is our infrastructure model and security standards.
 Dataoorts provides dedicated GPU Virtual Machines (VMs) and Bare Metal servers only. We do not offer shared or community-based GPUs. Every GPU instance is fully dedicated to you, ensuring consistent performance, isolation, and reliability.
 All Dataoorts infrastructure is hosted in Tier 3 and Tier 4 data centers with high-level physical and network security standards. This ensures maximum uptime, compliance, and enterprise-grade protection.
@@ -862,7 +862,7 @@ A significant portion of our profits supports afforestation, developer credits, 
 Dataoorts is built on performance, transparency, compliance, and responsibility. When you choose Dataoorts, you’re choosing secure infrastructure, honest pricing, and a partner committed to long-term reliability.
 -------------------------------------------------------------------
 
-41. Additional Details
+41. Additional Details of Dataoorts
 If you are unable to restart, reboot, stop, hibernate, delete, or terminate an instance from any series, there may be a few possible reasons:
 If the instance is a Spot or Bigroot instance (especially in the X Series), certain actions like stop or hibernate may not be supported.
 If the instance has been freshly launched, please wait at least 5 minutes before performing any management actions. The system may still be completing background initialization processes.
